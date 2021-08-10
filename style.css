@@ -1,0 +1,14 @@
+body {
+    color: white;
+    background-color: black;
+    vertical-align: top;
+}
+#schoolImage {
+    width: 100%;
+    height: 600px;
+}
+#marqueestyle {
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
